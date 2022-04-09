@@ -21,7 +21,7 @@ The easiest way to try out Kursor.js is using the [JSFiddle Hello World example]
     <script src="https://unpkg.com/kursor"></script>
     <script>
         new kursor({
-            type: 1
+            type: 2
         })
     </script>
 </html>
